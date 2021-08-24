@@ -2,7 +2,6 @@
 
 The k-Means Clustering algorithm is one of the simplest and most popular algorithms used in data mining, especially in unsupervised learning.
 Usually, in multi-feature mode, different properties of objects must be used to cluster them. In this way, we deal with multidimensional data. Some properties of objects may be quantitative and some qualitative. However, what is important is a way to measure the degree of similarity or dissimilarity between objects that should be considered in clustering methods. 
-
 <br/><br/>
 
 <p align="center">
