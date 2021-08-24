@@ -10,3 +10,5 @@ Usually, in multi-feature mode, different properties of objects must be used to 
 </p>
 
 In K-Means Clustering, optimization of an objective function is used. The clustering responses in this method may be performed with the help of minimization or maximization of the objective function. This means that if the criterion is distance measure between objects, the objective function will be based on minimization. The answer to the clustering operation is to find clusters where the distance between objects in each cluster is minimal. In contrast, if the dissimilarity function is used to measure the similarity of objects, the target function is selected so that the clustering response maximizes its value in each cluster.
+
+## Dataset
