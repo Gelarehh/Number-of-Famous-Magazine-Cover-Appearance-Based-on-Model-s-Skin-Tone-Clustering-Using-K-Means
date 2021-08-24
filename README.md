@@ -13,3 +13,4 @@ In K-Means Clustering, optimization of an objective function is used. The cluste
 The initialization method of the centroids in the implemented algorithm is k-means++, which selects initial cluster centers for k-mean clustering in a smart way to speed up convergence.
 
 ## Dataset
+Simulations have been done on two different sets of data. First, a set of random nodes have been generated and clustering approach was done on them. 
